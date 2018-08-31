@@ -1,0 +1,109 @@
+[04-May-2018 00:47:08 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 501
+[07-May-2018 10:50:59 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 10:58:57 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 11:08:44 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 11:08:54 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 11:17:58 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 11:21:29 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 545
+[07-May-2018 11:21:56 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 545
+[07-May-2018 11:33:14 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 538
+[07-May-2018 12:41:26 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 538
+[07-May-2018 12:48:39 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 538
+[07-May-2018 13:11:26 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:13:44 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:13:44 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:13:44 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:13:44 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:13:44 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:13:44 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:13:48 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:13:48 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:13:48 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:13:48 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:13:48 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:13:48 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:14:11 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:14:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:14:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:14:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:14:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:14:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:17:34 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:17:34 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:17:34 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:17:34 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:17:34 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:17:34 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:20:22 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:20:22 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:20:22 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:20:22 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:20:22 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:20:22 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:22:16 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:25:11 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:25:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:25:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:25:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:25:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:25:11 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:28:18 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:28:18 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:28:18 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:28:18 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:28:18 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:28:18 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:31:05 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:34:08 America/La_Paz] PHP Notice:  Trying to get property of non-object in /home/asesore1/public_html/lead/public/get.php on line 14
+[07-May-2018 15:34:08 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 19
+[07-May-2018 15:34:08 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 23
+[07-May-2018 15:34:08 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 34
+[07-May-2018 15:34:08 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 38
+[07-May-2018 15:34:08 America/La_Paz] PHP Notice:  Undefined offset: 1 in /home/asesore1/public_html/lead/public/get.php on line 45
+[07-May-2018 15:35:02 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:35:27 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:38:57 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:41:00 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:41:59 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:42:53 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:47:24 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:48:16 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:48:49 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:53:22 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:54:34 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:56:02 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 15:59:50 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:00:14 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:03:12 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:24:44 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:25:22 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:33:46 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:39:10 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[07-May-2018 16:43:21 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[08-May-2018 09:39:31 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[08-May-2018 09:42:07 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[08-May-2018 09:43:23 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 537
+[09-May-2018 09:57:07 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 610
+[09-May-2018 10:12:55 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 610
+[09-May-2018 13:00:53 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 610
+[09-May-2018 13:10:13 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 610
+[09-May-2018 21:51:35 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[09-May-2018 21:52:23 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[09-May-2018 22:14:28 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[09-May-2018 22:23:29 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:08:54 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:11:01 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:13:22 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:16:33 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:16:33 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:16:33 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:18:11 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:21:33 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:28:11 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:30:06 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:30:32 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:31:57 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[13-May-2018 15:45:02 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[14-May-2018 00:30:02 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 611
+[18-May-2018 17:51:41 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 618
+[18-May-2018 18:09:48 America/La_Paz] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/asesore1/public_html/lead/public/get.php:13) in /home/asesore1/public_html/lead/public/get.php on line 618

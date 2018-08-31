@@ -1,0 +1,16 @@
+[07-May-2018 15:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php on line 10
+[07-May-2018 15:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php on line 10
+[07-May-2018 15:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php on line 10
+[07-May-2018 15:29:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/asesore1/public_html/lead/public/landings/DeChaLi/landing1.php on line 10
